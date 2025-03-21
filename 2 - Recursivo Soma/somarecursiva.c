@@ -10,8 +10,6 @@ int main(void)
     scanf("%d", &numero);
 
     printf("Resultado: %d", soma(numero));
-
-
 }
 
 int soma(int n)
